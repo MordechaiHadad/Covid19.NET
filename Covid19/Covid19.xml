@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Covid19</name>
+    </assembly>
+    <members>
+        <member name="T:Covid19.CovidAPIClient">
+            <summary>
+            Represents a covid API client
+            </summary>
+        </member>
+        <member name="M:Covid19.CovidAPIClient.#ctor">
+            <summary>
+            Initialize a new client
+            </summary>
+        </member>
+        <member name="M:Covid19.CovidAPIClient.GetLatestByCountryAsync(System.String)">
+            <summary>
+            Get latest stats from a country.
+            </summary>
+        </member>
+        <member name="M:Covid19.CovidAPIClient.GetLatestAsync">
+            <summary>
+            Get latest stats
+            </summary>
+        </member>
+        <member name="M:Covid19.CovidAPIClient.GetTotalCountryDataAsync(System.String)">
+            <summary>
+            Get all of the country's data
+            </summary>
+        </member>
+    </members>
+</doc>
