@@ -1,7 +1,7 @@
 ﻿using System.Net.Http;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
-using Covid19.Classes;
+using Covid19.Models;
 using System.Linq;
 using System.Collections.Generic;
 

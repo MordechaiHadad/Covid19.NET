@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System;
 
-namespace Covid19.Classes
+namespace Covid19.Models
 {
     public class Country
     {
